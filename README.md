@@ -21,4 +21,24 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part 1 Modification
+================
+A more fancy, friendly, colorful and readable theme is applied by the changes below for all the three HTML:
+- body: 
+    * background color is changed to skyblue
+    * font-family and font-size is changed
+- h (header): 
+    * margin is changed to auto
+    * line spacing is changed from 0.12em to 0.12em
+    * deleted font-size and font-weight
+    * all headers have the same CSS styling
+    * background color
+- p (paragraph):
+    * changed margin
+    * added padding
+- pre (preformatted):
+    * changed margin
+- img(image):
+    * changed border radius
+    * added black border as a frame of images
 

@@ -1,0 +1,75 @@
+body {
+    font-family: "Lato", sans-serif;
+    background-image: linear-gradient(red, yellow, blue);
+}
+
+h3 {
+    background: lightpink;
+    color: lightskyblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    top: 0;
+    background-color: lightpink;
+    color: white;
+    padding: 10px 40px;
+    font-size: 30px;
+}
+
+.sidebar {
+    height: 200px;
+    width: 300px;
+    float: right;
+    z-index: 1;
+    top: 3em;
+    right: 0.5em;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 10px;
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+
+.side-text {
+    margin: 5%;
+    padding: auto;
+    color: #90EE90;
+}
+
+.side-points {
+    color: lightskyblue;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    top: 0;
+    font-size: 15px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.main {
+    margin-right: 300px; /* Same as the width of the sidenav */
+    font-size: 10px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+footer {
+    background-color: lightpink;
+    overflow: hidden;
+    bottom: 0;
+    margin-top: 5%;
+    padding: 2%;
+}
+
+a:link {
+    text-decoration: none;
+}
