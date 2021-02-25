@@ -42,3 +42,6 @@ A more fancy, friendly, colorful and readable theme is applied by the changes be
     * changed border radius
     * added black border as a frame of images
 
+Note
+==============
+All the screeenshots are formed with multiple screenshots, so it might look a little weird, especially for good.png, it is not continuous, so please view each page separately even though it is a single image.
