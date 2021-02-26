@@ -27,6 +27,7 @@ The three html used in this part are:
 1. http://www.gutenberg.org/ebooks/11
 2. http://www.gutenberg.org/ebooks/84
 3. http://www.gutenberg.org/ebooks/2701
+
 A more fancy, friendly, colorful and readable theme is applied by the changes below for all the three HTML:
 - body: 
     * background color is changed to skyblue
