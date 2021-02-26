@@ -23,6 +23,10 @@ Code is licensed under the Apache 2.0 license.
 
 Part 1 Modification
 ================
+The three html used in this part are:
+1. http://www.gutenberg.org/ebooks/11
+2. http://www.gutenberg.org/ebooks/84
+3. http://www.gutenberg.org/ebooks/2701
 A more fancy, friendly, colorful and readable theme is applied by the changes below for all the three HTML:
 - body: 
     * background color is changed to skyblue
@@ -42,7 +46,9 @@ A more fancy, friendly, colorful and readable theme is applied by the changes be
 - img(image):
     * changed border radius
     * added black border as a frame of images
-
+- figcaption:
+    * font-size is set to 10px
+    * font-family is set to 'Impact, fantasy';
 Note
 ==============
 All the screeenshots are formed with multiple screenshots, so it might look a little weird. Especially for good.png, it is not continuous and there is a "sticky" top navigation bar and side bar, so please try to view each page separately even though it is merged into a single image for a better view.
