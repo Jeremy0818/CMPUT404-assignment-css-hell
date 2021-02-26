@@ -26,10 +26,11 @@ Part 1 Modification
 A more fancy, friendly, colorful and readable theme is applied by the changes below for all the three HTML:
 - body: 
     * background color is changed to skyblue
-    * font-family and font-size is changed
+    * font-family is changed to fantasy
+    * font-size is changed
 - h (header): 
     * margin is changed to auto
-    * line spacing is changed from 0.12em to 0.12em
+    * word spacing is changed
     * deleted font-size and font-weight
     * all headers have the same CSS styling
     * background color
