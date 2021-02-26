@@ -44,4 +44,4 @@ A more fancy, friendly, colorful and readable theme is applied by the changes be
 
 Note
 ==============
-All the screeenshots are formed with multiple screenshots, so it might look a little weird, especially for good.png, it is not continuous, so please view each page separately even though it is a single image.
+All the screeenshots are formed with multiple screenshots, so it might look a little weird. Especially for good.png, it is not continuous and there is a "sticky" top navigation bar and side bar, so please try to view each page separately even though it is merged into a single image for a better view.
